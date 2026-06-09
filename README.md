@@ -16,7 +16,7 @@ npm install
 Instale o `axios` para as requisições HTTP e o `@vite-pwa/vite-plugin-pwa` para a configuração do Service Worker e Manifesto.
 ```bash
 npm install axios
-npm install -D @vite-pwa/vite-plugin-pwa
+npm install -D vite-plugin-pwa
 ```
 
 ### Passo 3: Configurar o `vite.config.js`
